@@ -1,3 +1,11 @@
+# React Quiz App
+
+[React/typescript tutorial](https://www.youtube.com/watch?v=F2JCjVSZlG0) from Free Code Camp.
+
+Github of the finished product can be found [here](https://github.com/weibenfalk/react-quiz).
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
